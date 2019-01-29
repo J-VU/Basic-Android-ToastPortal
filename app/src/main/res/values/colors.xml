@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Default colors-->
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--Color Theme Here-->
+    <color name="background">#03396c</color>
+    <color name="color_1">#011f4b</color>
+    <color name="color_2">#03396c</color>
+    <color name="color_3">#005b96</color>
+    <color name="color_4">#6497b1</color>
+    <color name="color_5">#b3cde0</color>
+    <color name="text_light">#d1d9df</color>
+    <color name="text_dark">#3d4145</color>
+
+
+
+</resources>
