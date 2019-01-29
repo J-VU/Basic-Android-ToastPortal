@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Toast Portal</string>
     <string name="button_label_toast">Toast Appear</string>
-    <string name="button_label_countplus">Add to counter</string>
+    <string name="button_label_countPlus">Add to counter</string>
     <string name="initial">0</string>
     <string name="toast_message">Toast Success!</string>
 

@@ -13,10 +13,11 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
+        android:padding="8dp"
         android:background="@color/color_2"
-        android:text="@string/button_label_countplus"
-        android:textColor="@color/text_light"
         android:onClick="addCount"
+        android:text="@string/button_label_countPlus"
+        android:textColor="@color/text_light"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -28,14 +29,14 @@
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
+        android:padding="8dp"
         android:background="@color/color_2"
+        android:onClick="showToast"
         android:text="@string/button_label_toast"
         android:textColor="@color/text_light"
-        android:onClick="showToast"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
-
 
 
     <TextView
